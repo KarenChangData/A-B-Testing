@@ -1,7 +1,7 @@
 # Project of AB Testing
 
 ## Objectives:
-### The goal of this project is to apply different statistics methods to decide if a company should implement a new webpage to increase the number of users.
+The goal of this project is to apply different statistics methods to decide if a company should implement a new webpage to increase the number of users.
 
 # Contents:
 ### Part I - Probability: 
